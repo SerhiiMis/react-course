@@ -1,0 +1,10 @@
+.buttonPaginator {
+  padding: 8px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  width: 100px;
+  margin: 5px;
+}

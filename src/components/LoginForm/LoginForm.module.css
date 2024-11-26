@@ -1,0 +1,26 @@
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  padding-top: 20px;
+}
+
+.loginForm div {
+  margin-bottom: 10px;
+}
+
+.loginForm label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.loginForm button {
+  padding: 8px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+}
